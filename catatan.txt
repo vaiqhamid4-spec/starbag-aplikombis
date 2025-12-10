@@ -1,0 +1,15 @@
+cd ".\my-marketplace"
+npm run dev
+
+ip 
+sesuai apa yang muncul 
+
+link web admin : http://localhost:5173/admin/login
+
+akun dan pw 
+admin
+admin123
+
+
+C:\Users\MyBook Hype AMD\my-marketplace\my-marketplace>
+npm run dev
